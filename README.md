@@ -116,6 +116,22 @@ Email
 * mail@angadthapa.com.np
 * hiangad.eml@gmail.com
 
-⸻
+images 
+<img width="637" height="690" alt="image" src="https://github.com/user-attachments/assets/67365bdf-df19-4f06-a902-09b1b4b63e8b" />
+waiter dashboard
+<img width="642" height="397" alt="image" src="https://github.com/user-attachments/assets/11ae093d-704f-4420-9687-82e4de7e44a8" />
+uploading iteems
+<img width="1249" height="720" alt="image" src="https://github.com/user-attachments/assets/776279e4-0cea-42f7-85cd-e8f95046ab4e" />
+after upload
+<img width="943" height="591" alt="image" src="https://github.com/user-attachments/assets/14002747-da23-4640-9de0-5dd9cdd4c9b8" />
+waiter view
+<img width="1297" height="769" alt="image" src="https://github.com/user-attachments/assets/d56b5f05-fbd5-4943-9797-ead13efb0be0" />
+bill sample
+<img width="641" height="649" alt="image" src="https://github.com/user-attachments/assets/586d6e0f-dda8-4d66-a4fb-15d22e00a8b4" />
 
- repository look much more professional to recruiters and contributors.
+regards,
+Angad thapa
+
+
+
+
