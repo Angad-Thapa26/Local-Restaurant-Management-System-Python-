@@ -27,6 +27,7 @@ Add, edit, or remove menu items
 Manage prices and inventory
 Monitor restaurant operations from a central dashboard
 Order Management
+block redirection from waiter to admin(in tailored version)
 
 Orders can be tracked through different stages:
 
@@ -105,7 +106,7 @@ This application is ideal for:
 
 without paying for expensive cloud POS systems.
 
-Note if you encountered any password its 2062 ( when getting to admin from waiter)
+
 
 📧 Contact
 
@@ -128,6 +129,8 @@ waiter view
 <img width="1297" height="769" alt="image" src="https://github.com/user-attachments/assets/d56b5f05-fbd5-4943-9797-ead13efb0be0" />
 bill sample
 <img width="641" height="649" alt="image" src="https://github.com/user-attachments/assets/586d6e0f-dda8-4d66-a4fb-15d22e00a8b4" />
+
+
 
 regards,
 Angad thapa
